@@ -36,7 +36,7 @@ const Header = () => {
       </motion.div>
 
       <motion.h1 className="text-4xl max-w-[300px] sm:text-7xl sm:max-w-[590px] mx-auto mt-10 text-center">
-        Turn text to
+        Turn text to 
         <span
           className="text-blue-600"
           initial={{ opacity: 0 }}
